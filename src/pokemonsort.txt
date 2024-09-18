@@ -1,0 +1,13 @@
+/*POKEMONS SORTEADOS 
+
+psyduck
+staryu
+clefairy
+zubat
+goldeen
+lapras
+pinsir
+kabutops
+scyther
+omanyte
+*/
